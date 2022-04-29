@@ -4,7 +4,7 @@
  I was searching in Google for something related to Python optimization and I got an unexpected invitation to a challenge that appeared to be very unusual...
 
 
-<img width="1284" alt="Screen Shot 2022-04-28 at 2 56 32 AM" src="https://user-images.githubusercontent.com/97183204/166075262-0a80a0de-8541-460e-8995-e67844d2b08b.png">
+![image1](https://user-images.githubusercontent.com/97183204/166075470-87ec3e8c-e7dc-4560-85ab-b04a564718ee.png)
 
 but, with my insatiable curiosity I accepted it, of course  :) 
 
@@ -18,8 +18,7 @@ After accepting the invitation and linking it with my email account, I saw some 
 
 The firts challenge (level 1) was: **the-cake-is-not-a-lie.** 
 
-![279313176_3249414155345884_7777390955566283261_n](https://user-images.githubusercontent.com/97183204/166072357-97ab2bf4-1160-453b-8440-9d894d3350a0.png)
-
+<img width="1284" alt="Screen Shot 2022-04-28 at 2 56 32 AM" src="https://user-images.githubusercontent.com/97183204/166075262-0a80a0de-8541-460e-8995-e67844d2b08b.png">
 
 If I move to the challenge folder I was able see some files:
 - **readme.txt** (Typing "cat readme.txt" to see the challenge)
@@ -33,7 +32,7 @@ Time: 7 days to solve it.
 <br> </br>
 <img width="1433" alt="Screen Shot 2022-04-28 at 1 45 35 AM" src="https://user-images.githubusercontent.com/97183204/166072520-e5cb35ac-3d90-47b7-905c-850778cb24f6.png">
 
-<img width="1385" alt="Screen Shot 2022-04-28 at 6 24 50 PM" src="https://user-<img width="1259" alt="Screen Shot 2022-04-28 at 2 27 36 AM" src="https://user-images.githubusercontent.com/97183204/166073956-69b32a90-2263-47e4-8d2f-461bf8125a08.png">
+<img width="1385" alt="Screen Shot 2022-04-28 at 6 24 50 PM" src="https://user-images.githubusercontent.com/97183204/166073956-69b32a90-2263-47e4-8d2f-461bf8125a08.png">
 
 <img width="1385" alt="Screen Shot 2022-04-28 at 6 24 50 PM" src="https://user-images.githubusercontent.com/97183204/166074275-9b17ac5d-f114-4705-9d98-3a544671186f.png">
 

@@ -4,7 +4,7 @@
  I was searching in Google for something related to Python optimization and I got an unexpected invitation to a challenge that appeared to be very unusual...
 
 
-![](https://github.com/mariajdab/foobar-with-google/blob/main/images.md/image1.png)
+<img width="1284" alt="Screen Shot 2022-04-28 at 2 56 32 AM" src="https://user-images.githubusercontent.com/97183204/166075262-0a80a0de-8541-460e-8995-e67844d2b08b.png">
 
 but, with my insatiable curiosity I accepted it, of course  :) 
 

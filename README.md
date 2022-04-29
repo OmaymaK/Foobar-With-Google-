@@ -1,7 +1,7 @@
 # Google Foobar challenges
 
 
- I was searching in Google for something related to Python optimization and I got an unexpected invitation to a challenge that appeared to be very unusual...
+ I was searching in Google for something related to Python python command line arguments and I got an unexpected invitation to a challenge that appeared to be very unusual...
 
 
 ![image1](https://user-images.githubusercontent.com/97183204/166075470-87ec3e8c-e7dc-4560-85ab-b04a564718ee.png)
